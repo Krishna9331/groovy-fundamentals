@@ -1,0 +1,43 @@
+<wpt>
+    <wayPoint name='Asian Elephant'><!--elephant-->
+        <latitude>38.63473</latitude>
+        <longitude>-90.29408</longitude>
+    </wayPoint>
+    <wayPoint name='Bactrian Camel'><!--camel-->
+        <latitude>38.63368</latitude>
+        <longitude>-90.28679</longitude>
+    </wayPoint>
+    <wayPoint name='Black Rhinoceros'><!--black rhino-->
+        <latitude>38.63408</latitude>
+        <longitude>-90.29323</longitude>
+    </wayPoint>
+    <wayPoint name='Cafe Restroom'><!--cafe restroom-->
+        <latitude>38.63533</latitude>
+        <longitude>-90.29019</longitude>
+    </wayPoint>
+    <wayPoint name='Polar Bear'><!--polar bear-->
+        <latitude>38.63677</latitude>
+        <longitude>-90.28976</longitude>
+    </wayPoint>
+    <wayPoint name='California Sea Lion'><!--sea lion-->
+        <latitude>38.63496</latitude>
+        <longitude>-90.28948</longitude>
+    </wayPoint>
+    <wayPoint name='Cheetah'><!--cheetah-->
+        <latitude>38.63421</latitude>
+        <longitude>-90.29458</longitude>
+    </wayPoint>
+    <wayPoint name='Grizzley Bear'><!--grizzly bear-->
+        <latitude>38.63633</latitude>
+        <longitude>-90.29083</longitude>
+    </wayPoint>
+    <wayPoint name='Jaguar'><!--jaguar-->
+        <latitude>38.63395</latitude>
+        <longitude>-90.28715</longitude>
+    </wayPoint>
+    <wayPoint
+            name='Lion'><!--African lions live in a number of different habitats: grassy plains, open woodlands, semi-desert areas, even high mountains.-->
+        <latitude>38.63347</latitude>
+        <longitude>-90.28769</longitude>
+    </wayPoint>
+</wpt>
